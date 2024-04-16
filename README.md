@@ -1,12 +1,12 @@
-### Shashank Gopalakrishna
+## Shashank Gopalakrishna
 
 A Senior Software Engineer with over 7 years of experience in the IT industry, I worked and focused on technical problem-solving skills and innovative thinking to provide customers with optimal software solutions.
 
-####Education
+###Education
 Master of Science, Computer Science
 San Diego State University, USA
 
-####Technical Skills
+###Technical Skills
 Web Technologies: Angular, HTML/HTML5, CSS/CSS3, SASS/SCSS, jQuery, Bootstrap, Angular Material,
 RxJS, Angular Data Grid, npm, Karma, Jasmine, ReactJS.
 Programming Languages: Java/J2EE, JavaScript, Python, TypeScript, JSP.
