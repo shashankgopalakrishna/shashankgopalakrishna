@@ -7,8 +7,8 @@ Master of Science, Computer Science
 San Diego State University, USA  
 
 ### Technical Skills
-**Web Technologies:** Angular, HTML/HTML5, CSS/CSS3, SASS/SCSS, jQuery, Bootstrap, Angular Material, RxJS, Angular Data Grid, npm, Karma, Jasmine, ReactJS.  
-**Programming Languages:** Java/J2EE, JavaScript, Python, TypeScript, JSP.  
+**Web Technologies:** Angular, ReactJS, HTML/HTML5, CSS/CSS3, SASS/SCSS, Next.js, jQuery, Bootstrap, Angular Material, RxJS, Angular Data Grid, npm, Karma, Jasmine.  
+**Programming Languages:** Java/J2EE, JavaScript, TypeScript, Python, JSP.  
 **Development Tools:** Visual Studio Code, Eclipse, Notepad++, Sublime, Jupyter Notebook, Postman, Burp Suite.  
 **Database:** MySQL, PL/SQL, NoSQL, MongoDB.  
 **Operating System:** Mac OS, Windows, Linux.  
